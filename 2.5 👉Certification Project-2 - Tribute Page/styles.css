@@ -1,0 +1,63 @@
+#main {
+    background-color: #19194d;
+    margin: 20px;
+    padding: 20px;
+}
+
+body {
+    background-color: #b8b894;
+    margin: 0;
+}
+
+#title {
+    font-family: 'Kanit', sans-serif;
+    font-size: 5em;
+    text-align: center;
+    color: #ffcc00;
+    margin: 0;
+}
+
+#img-div {
+    margin: 0;
+    padding: 20px;
+    padding-top: 0;
+}
+
+#image {
+    max-width: 100%;
+    height: auto;
+}
+
+#img-caption {
+    color: white;
+    text-align: center;
+    font-family: "Calibri", sans-serif;
+    font-size: 1.5em;
+    font-style: italic;
+    margin-top: 20px;
+}
+
+img {
+    display: block;
+}
+
+#tribute-info {
+    background-color: white;
+    color: black;
+    padding: 20px 250px;
+    font-family: 'Inconsolata', monospace;
+}
+
+#con-info {
+    text-align: justify;
+}
+
+h4 {
+    margin-bottom: -15px;
+}
+
+#tribute-link {
+    margin: auto;
+    text-align: center;
+    font-family: 'Kanite', sans-serif;
+}
