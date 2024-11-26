@@ -1,0 +1,2 @@
+# freeCodeCamp-Responsive-Web-Design-Certification-Projects-Course
+freeCodeCamp's responsive web design program is a self-paced online course that teaches participants how to create responsive and user-friendly web pages using HTML, CSS, and JavaScript. The program includes a series of interactive tutorials and projects, which help participants build a portfolio of work and gain practical experience
